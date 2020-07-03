@@ -45,3 +45,6 @@ var4 == 111977
 int[] var5 = new int[]{31159, 0, 31160, 3, 31187, 0, 31188, 3, 31274, 167, 31275, 90, 31276, 39};
 ```
 ![](./test.png)
+
+
+https://github.com/GraxCode/cafecompare/releases
